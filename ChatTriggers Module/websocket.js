@@ -1,5 +1,6 @@
 /*
- * The jar is from https://github.com/TooTallNate/Java-WebSocket/releases/tag/v1.6.0
+ * This websocket wrapper is by Debug, from by https://chattriggers.com/modules/v/WebSocket
+ * To be used with .jar from https://github.com/TooTallNate/Java-WebSocket/releases/tag/v1.6.0
  */
 
 export default class WebSocket {
